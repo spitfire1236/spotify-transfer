@@ -1,0 +1,18 @@
+{
+    "name": "spotify-transfer",
+    "version": "0.0.1",
+    "babel": "bin/spotify-transfer.js",
+    "license": "MIT",
+    "author": "Alexey Chernyshev <er1x4ever@gmail.com>",
+    "dependencies": {
+        "async": "^3.2.0",
+        "commander": "^7.2.0",
+        "dotenv": "^8.2.0",
+        "open": "^8.0.6",
+        "ora": "^5.2.0",
+        "spotify-web-api-node": "^5.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.17.0"
+    }
+}
