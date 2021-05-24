@@ -1,7 +1,7 @@
 {
     "name": "spotify-transfer",
     "version": "0.0.1",
-    "babel": "bin/spotify-transfer.js",
+    "bin": "./bin/spotify-transfer.js",
     "license": "MIT",
     "author": "Alexey Chernyshev <er1x4ever@gmail.com>",
     "dependencies": {
