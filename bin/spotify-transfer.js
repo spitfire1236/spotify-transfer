@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('../lib/spotify-transfer');
+require('../lib/cli');
